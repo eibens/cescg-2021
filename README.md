@@ -6,7 +6,7 @@ This repository contains links and public data related to my [CESCG 2021](https:
 - [Additional musical examples](more)
 - [Generate your own music in the web-browser](https://eibens.github.io/dipl/example)
 
-![demo screenshot](deno.png)
+![demo screenshot](demo.png)
 
 
 ## Thesis
