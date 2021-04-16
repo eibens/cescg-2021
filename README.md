@@ -6,6 +6,8 @@ This repository contains links and public data related to my [CESCG 2021 paper](
 - [Additional musical examples](more)
 - [Generate your own music in the web-browser](https://eibens.github.io/dipl/example)
 
+# Paper
+
 - *Title*: Polyphonic Music Composition with Grammars
 - *Author*: Lukas Eibensteiner, BSc
 - *Supervisor*: Mag. Martin Ilčík
