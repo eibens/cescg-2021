@@ -4,7 +4,7 @@ This repository contains links and public data related to my [CESCG 2021 paper](
 
 - [Audio files mentioned in the paper](files)
 - [Additional musical examples](more)
-- [Generate your own music in the web-browser](https://eibens.github.io/dipl/example)
+- [Generate your own music in the web-browser](https://eibens.github.io/dipl/example) (takes a short time to load the instruments)
 
 ## Paper
 
